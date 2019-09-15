@@ -183,4 +183,6 @@
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
 
+    <string name="battery_temp">Battery temperature</string>
+
 </resources>
